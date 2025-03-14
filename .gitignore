@@ -17,3 +17,6 @@ mono_crash.*.json
 .DS_Store
 */.DS_Store
 *.DS_Store
+
+#Test scenes
+testing
